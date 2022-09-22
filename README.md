@@ -7,7 +7,8 @@
   
 <p>
  
-  i mostly use python, html and css. i'm learning programming and started 'bout an year ago <s> i'm newbie lmao </s>
+  i mostly use python, html and css. i'm learning programming and started 'bout an year ago.
+  i study at IFSP (federal institute of são paulo) and live in brazil 
   
  </p>
 
