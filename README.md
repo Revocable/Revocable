@@ -8,7 +8,7 @@
 <p align="left">
  
   i mostly use python, html and css. i'm learning programming and started 'bout an year ago. <br>
-  i study at IFSP (federal institute of são paulo) and live in brazil 
+  i study at IFSP (federal institute of são paulo) currently freshman and live in brazil 
   
  </p>
 
