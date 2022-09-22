@@ -5,7 +5,7 @@
 
   
   
-<p align="left">
+<p style="text-align:left">
  
   i mostly use python, html and css. i'm learning programming and started 'bout an year ago. <br>
   i study at IFSP (federal institute of são paulo) and live in brazil 
