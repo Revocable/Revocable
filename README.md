@@ -14,7 +14,7 @@
 
 <img src="./42634073306d3a03bf67cbcd4dc270ae1410383808_full.gif" alt="anime guy typing like crazy" title="me lmao">
 
-<img src="./mai_sakurajima_holding_python_programming_3in1_book.png" alt="anime girl holding python book" title="2d girls >>>>>>" width="321px" height="160px">
+<img src="./mai_sakurajima_holding_python_programming_3in1_book.png" alt="anime girl holding python book" title="2d girls >>>>>>" width="480px">
 
 
 
