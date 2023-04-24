@@ -8,7 +8,7 @@
 <p align="left">
  
   my primary languages are python, html, css and js. i'm learning programming and started 'bout an year ago. <br>
-  i study at IFSP (federal institute of são paulo) currently freshman and live in brazil 
+  i study at IFSP (federal institute of são paulo) currently sophomore and i live in brazil 
   
  </p>
 
