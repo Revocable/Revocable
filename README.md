@@ -20,14 +20,14 @@ Possuo conhecimento em Python, Java, HTML, CSS e JavaScript e conhecimento bási
 
 </div>
 
-
+<div align="center">
   
   <p>
   what i'm listening now
   </p
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=murilovazscolari6-br)
-    
+</div>
     
 <div align="center">
     <a href="https://twitter.com/revocablekk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter"height="30" width="40" /></a>
