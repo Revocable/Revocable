@@ -14,7 +14,7 @@ Possuo conhecimento em Python, Java, HTML, CSS e JavaScript e conhecimento bási
  </p>
 <hr>
 
-<div align="center">
+<div>
 <img src="./42634073306d3a03bf67cbcd4dc270ae1410383808_full.gif" alt="anime guy typing like crazy" title="me lmao">
 <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Aoba_Suzukaze_techgo_Python_For_Beginners.png" alt="anime girl reading a book named 'Python For Beginners' " width="480px">
 
@@ -29,12 +29,10 @@ Possuo conhecimento em Python, Java, HTML, CSS e JavaScript e conhecimento bási
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=murilovazscolari6-br)
     
     
-  <p align="center">
+<div align="center">
     <a href="https://twitter.com/revocablekk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter"height="30" width="40" /></a>
     <a href="https://www.youtube.com/user/murilovazscolari6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="30" width="40"" /></a>
-    </p>
-      
-</div>
+     </div>
 
 
 
