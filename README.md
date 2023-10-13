@@ -12,14 +12,7 @@ Possuo conhecimento em Python, Java, HTML, CSS, JavaScript, PHP e SQL. Sou estud
   I have knowledge in Python, Java, HTML, CSS, and JavaScript, PHP and SQL. I'm a 2nd-year high school student enrolled in the integrated technical course of Internet Computing at IFSP Campus São Carlos. I have a good grasp of English and can communicate satisfactorily. I'm eager to learn new programming languages and techniques.
   
  </p>
-<hr>
-
-<div align="center">
-<img src="./42634073306d3a03bf67cbcd4dc270ae1410383808_full.gif" alt="anime guy typing like crazy" title="me lmao" width="380px">
-<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Aoba_Suzukaze_techgo_Python_For_Beginners.png" alt="anime girl reading a book named 'Python For Beginners' " width="380px">
-</div>
-
-<div style="display: inline_block; align: center;text-align: center"> <br>
+ <div style="display: inline_block align: center;text-align:center"> <br>
  <img src="https://img.shields.io/badge/CSS-3%2B-blue?logo=css3&logoColor=white" alt="CSS">
  <img src="https://img.shields.io/badge/HTML-5%2B-orange?logo=html5&logoColor=white" alt="HTML">    
  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&logoColor=white" alt="JavaScript">
@@ -28,6 +21,14 @@ Possuo conhecimento em Python, Java, HTML, CSS, JavaScript, PHP e SQL. Sou estud
  <img src="https://img.shields.io/badge/Java-11%2B-red?logo=java&logoColor=white" alt="Java">
  <img src="https://img.shields.io/badge/PHP-7.4%2B-blue?logo=php&logoColor=white" alt="PHP">
 </div>
+
+<hr>
+
+<div align="center">
+<img src="./42634073306d3a03bf67cbcd4dc270ae1410383808_full.gif" alt="anime guy typing like crazy" title="me lmao" width="380px">
+<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Aoba_Suzukaze_techgo_Python_For_Beginners.png" alt="anime girl reading a book named 'Python For Beginners' " width="380px">
+</div>
+
 
 
 <div align="center">
