@@ -18,33 +18,17 @@ Possuo conhecimento em Python, Java, HTML, CSS, JavaScript, PHP e SQL. Sou estud
 <img src="./42634073306d3a03bf67cbcd4dc270ae1410383808_full.gif" alt="anime guy typing like crazy" title="me lmao" width="380px">
 <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Aoba_Suzukaze_techgo_Python_For_Beginners.png" alt="anime girl reading a book named 'Python For Beginners' " width="380px">
 </div>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PHP-7.4%2B-blue?logo=php&logoColor=white" alt="PHP">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-11%2B-red?logo=java&logoColor=white" alt="Java">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-8.0%2B-blue?logo=mysql&logoColor=white" alt="MySQL">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3.6%2B-blue?logo=python&logoColor=white" alt="Python">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&logoColor=white" alt="JavaScript">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML-5%2B-orange?logo=html5&logoColor=white" alt="HTML">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CSS-3%2B-blue?logo=css3&logoColor=white" alt="CSS">
-    </td>
-  </tr>
-</table>
+
+<div style="display: inline_block"> <br>
+ <img src="https://img.shields.io/badge/CSS-3%2B-blue?logo=css3&logoColor=white" alt="CSS">
+ <img src="https://img.shields.io/badge/HTML-5%2B-orange?logo=html5&logoColor=white" alt="HTML">    
+ <img src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&logoColor=white" alt="JavaScript">
+ <img src="https://img.shields.io/badge/Python-3.6%2B-blue?logo=python&logoColor=white" alt="Python">
+ <img src="https://img.shields.io/badge/MySQL-8.0%2B-blue?logo=mysql&logoColor=white" alt="MySQL"> 	
+ <img src="https://img.shields.io/badge/Java-11%2B-red?logo=java&logoColor=white" alt="Java">
+ <img src="https://img.shields.io/badge/PHP-7.4%2B-blue?logo=php&logoColor=white" alt="PHP">
+</div>
+
 
 <div align="center">
   
