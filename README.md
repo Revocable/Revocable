@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="./header.png" alt="header">
+<img src="./github-header-image.png" alt="header">
 
 
  
